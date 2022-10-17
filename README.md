@@ -7,12 +7,11 @@ A simple web application which uses Machine Learning algorithm to predict the he
 
 
  
- ### Technical Aspect
- 
- This Project is mainly divided into two parts:
- 
- 1. Exploring the dataset and training the model using `Sklearn`.
- 2. Building a `flask` web app.
+## Tech Stack Used
+1. Python  
+2. Machine Learning algorithms
+3. Flask
+
 
 **About the repository Structure :**
 
@@ -25,21 +24,29 @@ A simple web application which uses Machine Learning algorithm to predict the he
 
 The Code is written in Python 3.8. If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after cloning the repository:
 
-```
-pip install -r requirements.txt 
-```
-
-*To clone the repository*
-
-```
-git clone https://github.com/YamanuriPrasanth/Heart-Disease-Prediction
+### Step 1: Clone the repository
+```bash
+git clone https://github.com/sethusaim/Sensor-Fault-Detection.git
 ```
 
-### Run 
+### Step 2- Create a conda environment after opening the repository
 
-*To Run the Application*
-
+```bash
+conda create -n sensor python=3.8.0 -y
 ```
+
+```bash
+conda activate sensor
+```
+
+### Step 3 - Install the requirements
+```bash
+pip install -r requirements.txt
+```
+
+
+### Step 4 - Run the application server
+```bash
 python app.py
 ```
 
