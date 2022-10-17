@@ -54,7 +54,7 @@ python app.py
 
 ### Future work 
 
-- improve model performance.
+- Improve model performance.
 - Add more better styling to the user interface.
 
 
