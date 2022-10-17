@@ -51,12 +51,7 @@ python app.py
 ```
 
 
-### Technologies used 
 
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)  
-
-
-[![Flask](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_flask.png?raw=true)](http://flask.pocoo.org/)  
 
 
 ### Future work 
