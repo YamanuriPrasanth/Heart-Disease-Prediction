@@ -26,7 +26,7 @@ The Code is written in Python 3.8. If you don't have Python installed you can fi
 
 ### Step 1: Clone the repository
 ```bash
-git clone https://github.com/sethusaim/Sensor-Fault-Detection.git
+git clone https://github.com/YamanuriPrasanth/Heart-Disease-Prediction.git
 ```
 
 ### Step 2- Create a conda environment after opening the repository
