@@ -61,10 +61,6 @@ python app.py
 
 
 
-**Some Useful Resources**
-
-- **Flask Quickstart Documentation** : [https://flask.palletsprojects.com/en/1.1.x/quickstart/](https://flask.palletsprojects.com/en/1.1.x/quickstart/)
-
 
 ### Output
 ![Screenshot (52)](https://user-images.githubusercontent.com/54884765/196180844-f85dc94e-542a-404f-aaea-5434201dc599.png)
