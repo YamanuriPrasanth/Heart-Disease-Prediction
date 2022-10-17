@@ -12,13 +12,16 @@ body{
 	height: 100%;
 	display: flex;
 	flex-direction: column;
+	
+	 
+	
 }
 
 /* Website Title */
 .container{
     padding: 30px;
 	position:relative;
-	background: linear-gradient(45deg, #161616, #383436, #161616);
+	background: linear-gradient(45deg, #161, hsl(147, 48%, 47%), hsl(147, 48%, 47%));
 	background-size: 500% 500%;
 	animation: change-gradient 10s ease-in-out infinite;
 }
@@ -124,7 +127,7 @@ label {
 	flex-shrink: 0;
 	position:relative;
 	padding: 20px;
-	background: linear-gradient(45deg, #161616, #383436, #161616);
+	background: linear-gradient(45deg, hsl(147, 48%, 47%), hsl(147, 48%, 47%), hsl(147, 48%, 47%));
 	background-size: 500% 500%;
 	animation: change-gradient 10s ease-in-out infinite;
 }
